@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+httpx
+shopify-python-api
+facebook-business
+python-multipart
+ShopifyAPI
